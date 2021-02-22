@@ -6,4 +6,4 @@
 ##### The dashboard updates everyday at 18:00 hrs IST.
 ##### The dataset used in the dataset is obtained from John Hopkins University and EU OGD datacenter.
 
-##### Please do visit : https://public.tableau.com/profile/anirudha.mulgund#!/vizhome/Covid19WorldDashboard/Dashboard1
+##### Please do visit : https://public.tableau.com/profile/anirudha.mulgund#!/vizhome/Covid19WorldDashboard/Dashboard
